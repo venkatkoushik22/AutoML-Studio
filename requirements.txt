@@ -1,0 +1,7 @@
+mljar-supervised
+mercury
+mlflow
+shap
+fastapi
+uvicorn
+evidently
